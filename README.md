@@ -1,6 +1,6 @@
 <!-- Gojo Satoru Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/TxJD5mT.jpeg" width="100%" />
+  <img src="https://i.imgur.com/TxJD5mT.jpeg](https://github.com/Tenno1208/Tenno1208/blob/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg?raw=true" width="100%" />
 </p>
 
 <h1 align="center">💠 Gojo Mode Activated — <b>Tenno</b></h1>
