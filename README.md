@@ -1,52 +1,52 @@
-<!-- Banner (kamu bisa ganti dengan gambar anime favoritmu) -->
+<!-- Banner Jujutsu Kaisen -->
 <p align="center">
-  <img src="https://i.ibb.co/BfKLLc2/anime-banner-1.jpg" width="100%" />
+  <img src="https://i.imgur.com/Dbc1Lzd.jpeg" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Tenno</b> ~</h1>
+<h1 align="center">🌀 Welcome to My Domain — <b>Tenno</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F776FF&center=true&vCenter=true&lines=Laravel+Developer;Next.js+Developer;Anime+Lover;Clean+Code+Enjoyer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00E5FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Laravel+%26+Next.js+Developer;Anime+Enthusiast+%7C+Jujutsu+Kaisen+Vibes;Crafting+Clean+and+Impactful+Code" />
 </p>
 
 ---
 
-## 🌸 **About Me**
-- 🔧 Backend & Frontend Developer  
-- 🚀 Fokus saat ini: Laravel & Next.js  
-- 🎨 Suka desain UI dengan sentuhan anime  
-- 🧠 Belajar sesuatu yang baru setiap hari  
+## 🔥 **About Me**
+- 💻 Fullstack Developer (Laravel + Next.js)  
+- 🎨 Suka konsep UI bergaya anime / neon cyber  
+- 🍃 Tenang, tapi kodenya selalu “Domain Expansion Ready”  
+- 🌙 Ngoding malam ditemani OST anime  
 
 ---
 
-## ⚔️ **Tech Stacks**
+## ⚡ **Tech Arsenal**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,php,js,react,tailwind,mysql,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,js,php,react,tailwind,mysql,git,github&theme=light" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 🌌 **GitHub Battle Stats**
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tenno1208&show_icons=true&theme=synthwave" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenno1208&layout=compact&theme=synthwave" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tenno1208&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenno1208&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ✨ **Anime Vibes**
+## 🧿 **Jujutsu Energy**
 <p align="center">
-  <img src="https://i.pinimg.com/originals/39/f0/4f/39f04fca2353c7c45b407db0d2736324.gif" width="300" />
+  <img src="https://i.imgur.com/uqjGm2Q.gif" width="350" />
 </p>
 
 ---
 
-## 🎯 **Featured Projects**
-> *Tambahkan project kamu di sini kalau sudah ada repo publik yang mau ditampilkan.*
+## 📁 **Featured Projects**
+> Coming soon — like a new episode drop 👌
 
 ---
 
-## 🌐 **Follow Me**
+## 🌐 **Connect With Me**
 <p align="left">
   <a href="https://github.com/Tenno1208">
     <img src="https://img.shields.io/badge/GitHub-Tenno1208-181717?style=for-the-badge&logo=github" />
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <i>“Code like the main character of your own anime.”</i>
+  <i>“A coder without ambition is like a sorcerer without cursed energy.”</i>
 </p>
