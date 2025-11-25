@@ -1,6 +1,6 @@
 <!-- Gojo Satoru Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tenno1208/Tenno1208/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tenno1208/Tenno1208/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg" width="80%" />
 </p>
 
 <h1 align="center">💠 Gojo Mode Activated — <b>Tenno</b></h1>
@@ -36,7 +36,7 @@
 
 ## 💫 **Gojo Aura**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tenno1208/Tenno1208/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg" width="350" />
+  <img src="https://raw.githubusercontent.com/Tenno1208/Tenno1208/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg" width="250" />
 </p>
 
 ---
