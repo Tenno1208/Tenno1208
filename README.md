@@ -1,12 +1,12 @@
 <!-- Gojo Satoru Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/TxJD5mT.jpeg](https://github.com/Tenno1208/Tenno1208/blob/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg?raw=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tenno1208/Tenno1208/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg" width="100%" />
 </p>
 
 <h1 align="center">💠 Gojo Mode Activated — <b>Tenno</b></h1>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=8BE3FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Laravel+%26+Next.js+Developer;Limitless+Focus+%7C+Clean+Code+Enjoyer;Gojo+Satoru+Inspired+Profile](https://github.com/Tenno1208/Tenno1208/blob/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg?raw=true)" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=8BE3FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Laravel+%26+Next.js+Developer;Limitless+Focus+%7C+Clean+Code+Enjoyer;Gojo+Satoru+Inspired+Profile" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ## 💫 **Gojo Aura**
 <p align="center">
-  <img src="[https://i.imgur.com/SZ8Jlqn.gif](https://github.com/Tenno1208/Tenno1208/blob/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg?raw=true)" width="350" />
+  <img src="https://raw.githubusercontent.com/Tenno1208/Tenno1208/main/images/GOJO%20%20SATORU%20%20WALLPAPER%20HD%20(4K).jpeg" width="350" />
 </p>
 
 ---
