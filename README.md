@@ -1,32 +1,32 @@
-<!-- Banner Jujutsu Kaisen -->
+<!-- Gojo Satoru Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Dbc1Lzd.jpeg" width="100%" />
+  <img src="https://i.imgur.com/TxJD5mT.jpeg" width="100%" />
 </p>
 
-<h1 align="center">🌀 Welcome to My Domain — <b>Tenno</b></h1>
+<h1 align="center">💠 Gojo Mode Activated — <b>Tenno</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00E5FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Laravel+%26+Next.js+Developer;Anime+Enthusiast+%7C+Jujutsu+Kaisen+Vibes;Crafting+Clean+and+Impactful+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=8BE3FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Laravel+%26+Next.js+Developer;Limitless+Focus+%7C+Clean+Code+Enjoyer;Gojo+Satoru+Inspired+Profile" />
 </p>
 
 ---
 
-## 🔥 **About Me**
+## 🔹 **About Me**
 - 💻 Fullstack Developer (Laravel + Next.js)  
-- 🎨 Suka konsep UI bergaya anime / neon cyber  
-- 🍃 Tenang, tapi kodenya selalu “Domain Expansion Ready”  
-- 🌙 Ngoding malam ditemani OST anime  
+- 🔥 Style coding: Clean, fast, efficient—kayak Gojo sebelum buka penutup mata  
+- 🌌 Suka UI aesthetic anime, neon, dan dark mode  
+- 🎶 Ngoding sambil denger OST JJK biar lebih “domain expansion” vibes  
 
 ---
 
-## ⚡ **Tech Arsenal**
+## ⚙️ **Tech Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,js,php,react,tailwind,mysql,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,php,js,react,tailwind,mysql,git,github&theme=light" />
 </p>
 
 ---
 
-## 🌌 **GitHub Battle Stats**
+## 🌀 **GitHub Stats (Limitless Mode)**
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tenno1208&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenno1208&layout=compact&theme=tokyonight" />
@@ -34,19 +34,19 @@
 
 ---
 
-## 🧿 **Jujutsu Energy**
+## 💫 **Gojo Aura**
 <p align="center">
-  <img src="https://i.imgur.com/uqjGm2Q.gif" width="350" />
+  <img src="https://i.imgur.com/SZ8Jlqn.gif" width="350" />
 </p>
 
 ---
 
 ## 📁 **Featured Projects**
-> Coming soon — like a new episode drop 👌
+> Coming soon — like Gojo’s next domain expansion.
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Connect**
 <p align="left">
   <a href="https://github.com/Tenno1208">
     <img src="https://img.shields.io/badge/GitHub-Tenno1208-181717?style=for-the-badge&logo=github" />
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <i>“A coder without ambition is like a sorcerer without cursed energy.”</i>
+  <i>“When you realize you’re the strongest, coding becomes fun.” — Gojo Dev Mode</i>
 </p>
