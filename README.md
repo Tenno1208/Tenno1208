@@ -53,7 +53,7 @@ Seorang developer yang berfokus pada **performa** dan **antarmuka yang elegan**.
 
 ### 🌐 Secure Connection
 <div align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:tenoavatar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=7FD3ED" />
   </a>
   <a href="https://github.com/Tenno1208">
