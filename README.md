@@ -15,50 +15,39 @@
 ### 🌑 The Void: Professional Profile
 Seorang developer yang berfokus pada **performa** dan **antarmuka yang elegan**. Seperti *Limitless*, saya percaya bahwa kode yang baik harus tidak memiliki batas dalam hal skalabilitas namun tetap sederhana dalam struktur.
 
-</div>
+---
 
 ### 🛠️ Core Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,ts,php,react,tailwind,mysql,postgres,git,debian,docker,postman&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,ts,php,react,tailwind,mysql,postgres,git,debian,docker,postman&perline=6&theme=dark" />
+
 </div>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Backend Mastery</h4>
-      <ul>
-        <li><b>Laravel & PHP:</b> Scalable APIs & Core Logic</li>
-        <li><b>Database:</b> MySQL, PostgreSQL & Optimization</li>
-        <li><b>Architecture:</b> Monolith & Decoupled (Headless)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✨ Frontend Artistry</h4>
-      <ul>
-        <li><b>Next.js & React:</b> Server Side Rendering & SEO</li>
-        <li><b>Tailwind CSS:</b> Modern & Responsive UI</li>
-        <li><b>TypeScript:</b> Type-safe & Robust Development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 Technical Expertise
+*   **Backend Mastery**: Laravel & PHP (Scalable APIs), Database Optimization (MySQL, PostgreSQL), & Decoupled Architecture.
+*   **Frontend Artistry**: Next.js & React (SSR & SEO), Tailwind CSS (Modern UI), & Type-safe Development with TypeScript.
+*   **Development Tools**: Proficient with Linux (Debian), Docker, Git, and Terminal-based environments like Termux.
 
 ---
 
 ### 📊 Tactical Overview
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tenno1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7FD3ED&text_color=ffffff&icon_color=7FD3ED" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenno1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7FD3ED&text_color=ffffff" />
-</div>
+<p align="center">
+  <a href="https://github.com/Tenno1208">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tenno1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7FD3ED&text_color=ffffff&icon_color=7FD3ED" alt="Tenno's GitHub stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Tenno1208">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenno1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7FD3ED&text_color=ffffff" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
 ### 📂 Operational Log (Current Projects)
-- **Montera Finance** — *Revolutionizing personal finance tracking.*
-- **SPK Digital Ecosystem** — *Enterprise-grade work order management.*
-- **Real-time Interaction** — *Engaging TikTok Live game mechanics via Socket.io.*
+*   **Montera Finance**: Personal finance management built with a decoupled Laravel and Next.js architecture.
+*   **SPK Digital Ecosystem**: Professional work order management system for regional utility services (PDAM).
+*   **Interactive Apps**: Real-time TikTok Live racing games using Node.js, Socket.io, and Phaser.
 
 ---
 
@@ -69,9 +58,6 @@ Seorang developer yang berfokus pada **performa** dan **antarmuka yang elegan**.
   </a>
   <a href="https://github.com/Tenno1208">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7FD3ED" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7FD3ED" />
   </a>
 </div>
 
