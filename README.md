@@ -128,6 +128,12 @@ Saat ini mendalami pengembangan sistem finansial, platform manajemen operasional
   <a href="https://github.com/Tenno1208">
     <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" />
   </a>
+  <a href="https://instagram.com/tennoaja_">
+    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=D4AF37" />
+  </a>
+  <a href="https://wa.me/6281334891651">
+    <img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=D4AF37" />
+  </a>
 </div>
 
 <br/>
@@ -137,3 +143,4 @@ Saat ini mendalami pengembangan sistem finansial, platform manajemen operasional
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1A1A1A,100:0D0D0D&height=100&section=footer" />
+
